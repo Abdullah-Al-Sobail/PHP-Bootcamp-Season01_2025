@@ -7,9 +7,10 @@ Each class includes:
 ✔️ **Recorded Session Links**  
 ✔️ **Code Documentation**  
 ✔️ **Detailed Explanations**  
+✔️ **Practice Exercises**  
+
 
 ---
-</style>
 
 <h1>📅 Class Schedule</h1>
 
@@ -37,6 +38,12 @@ Each class includes:
     </tr>
     <tr>
       <td><strong>03</strong></td>
+      <td>PHP Elseif, Switch, Loops, Functions, and Arrays</td>
+      <td><a href="https://www.youtube.com/watch?v=OnL8zTwvSkQ" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="class03/readme.md" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+      <td><strong>04</strong></td>
       <td class="coming-soon">Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
