@@ -42,8 +42,20 @@ Each class includes:
       <td><a href="https://www.youtube.com/watch?v=OnL8zTwvSkQ" class="btn-watch">🎥 Watch</a></td>
       <td><a href="class03/readme.md" class="btn-notes">📄 Notes</a></td>
     </tr>
-    <tr>
+     <tr>
       <td><strong>04</strong></td>
+      <td>PHP Arrays, Superglobals, and Forms</td>
+      <td><a href="https://youtu.be/xrjQnZAZxXk?si=M-WUZbJkJjs9erz4" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="class04/readme.md" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+      <td><strong>05</strong></td>
+      <td>PHP Forms, Form Handling, Validation, $_SESSION, and $_SERVER</td>
+      <td><a href="" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="class05/readme.md" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+      <td><strong>06</strong></td>
       <td class="coming-soon">Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
