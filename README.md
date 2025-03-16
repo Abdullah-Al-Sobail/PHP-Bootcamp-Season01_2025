@@ -51,7 +51,7 @@ Each class includes:
     <tr>
       <td><strong>05</strong></td>
       <td>PHP Forms, Form Handling, Validation, $_SESSION, and $_SERVER</td>
-      <td><a href="" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="https://youtu.be/UhAMlG5jdwU" class="btn-watch">🎥 Watch</a></td>
       <td><a href="class05/readme.md" class="btn-notes">📄 Notes</a></td>
     </tr>
     <tr>
