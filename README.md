@@ -54,8 +54,14 @@ Each class includes:
       <td><a href="https://youtu.be/UhAMlG5jdwU" class="btn-watch">🎥 Watch</a></td>
       <td><a href="class05/readme.md" class="btn-notes">📄 Notes</a></td>
     </tr>
-    <tr>
+      <tr>
       <td><strong>06</strong></td>
+      <td>Contact Form with CRUD using Bootstrap & PHP</td>
+      <td><a href="https://youtu.be/ijO-mLc5EgU" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="class06/readme.md" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+      <td><strong>07</strong></td>
       <td class="coming-soon">Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
