@@ -61,7 +61,14 @@ Each class includes:
       <td><a href="class06/readme.md" class="btn-notes">📄 Notes</a></td>
     </tr>
     <tr>
+      <tr>
       <td><strong>07</strong></td>
+      <td>CRUD Application with PHP, MySQL, and Bootstrap</td>
+      <td><a href="https://youtu.be/sN_AYYL0CVg" class="btn-watch">🎥 Watch</a></td>
+      <td><a href="class07/readme.md" class="btn-notes">📄 Notes</a></td>
+    </tr>
+    <tr>
+      <td><strong>08</strong></td>
       <td class="coming-soon">Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
