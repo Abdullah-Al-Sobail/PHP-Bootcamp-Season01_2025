@@ -69,7 +69,25 @@ Each class includes:
     </tr>
     <tr>
       <td><strong>08</strong></td>
-      <td class="coming-soon">Coming Soon...</td>
+      <td>Project Class</td>
+      <td><a href="https://youtu.be/5W1P1Nd0ots" class="btn-watch">🎥 Watch</a></td></td>
+      <td><a href="project/" class="btn-notes">📄 code</a></td>
+    </tr>
+    <tr>
+      <td><strong>09</strong></td>
+      <td>Project Class</td>
+      <td><a href="https://youtu.be/a5nBeTvWFRo" class="btn-watch">🎥 Watch</a></td></td>
+      <td><a href="project/" class="btn-notes">📄 code</a></td>
+    </tr>
+    <tr>
+      <td><strong>10</strong></td>
+      <td class="coming-soon">Project Class</td>
+      <td class="coming-soon">🔜 Upcoming</td>
+      <td class="coming-soon">🔜 Upcoming</td>
+    </tr>
+    <tr>
+      <td><strong>11</strong></td>
+      <td class="coming-soon">Bonus Content Coming Soon...</td>
       <td class="coming-soon">🔜 Upcoming</td>
       <td class="coming-soon">🔜 Upcoming</td>
     </tr>
@@ -83,3 +101,5 @@ Each class includes:
 </table>
 
 ---
+<h2 align='center'><a href='./rbac_project/README.md'>Final Project Requirements</a></h2>
+
