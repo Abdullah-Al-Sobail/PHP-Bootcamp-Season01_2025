@@ -1,13 +1,13 @@
 
-# 🚀 PHP Bootcamp Season01_2025 - 10 Days
+#  PHP Bootcamp Season01_2025 - 10 Days
 
 Welcome to the **PHP Bootcamp Season01_2025**! This course is designed for **absolute beginners** to learn PHP from scratch.  
 
 Each class includes:  
-✔️ **Recorded Session Links**  
-✔️ **Code Documentation**  
-✔️ **Detailed Explanations**  
-✔️ **Practice Exercises**  
+ **Recorded Session Links**  
+ **Code Documentation**  
+ **Detailed Explanations**  
+ **Practice Exercises**  
 
 
 ---
